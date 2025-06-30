@@ -3,7 +3,7 @@
   "name": "user-count-backend",
   "version": "1.0.0",
   "description": "Real-time user count backend using Express and Socket.IO",
-  "main": "server.js",Add commentMore actions
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
